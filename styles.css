@@ -1,0 +1,22 @@
+
+  body {
+    background-color: #eeeeee;
+  }
+table{
+background-color: black;
+color: #32e0c4;
+}
+th{
+  color: white;
+}
+  h1 {
+    font-style: oblique;
+  }
+  li{
+    color: #0d7377;
+  }
+  hr{
+    color: black;;
+    border-style: none;
+    border-style: dashed;
+  }
